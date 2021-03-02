@@ -1,2 +1,2 @@
-# vue-mastery
+# Vue-mastery
 Vue learning repository
